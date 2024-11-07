@@ -1,3 +1,5 @@
+# Autora: Mayra Huarcaya Carbajal
+
 ## Diagrama UML
 ![Diagrama UML - Mayra Alexandra Huarcaya Carbajal](https://github.com/user-attachments/assets/1caa8818-f90c-4658-be2a-17b1fb75a56b)
 
